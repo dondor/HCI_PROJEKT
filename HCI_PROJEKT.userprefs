@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ElementInteraktywnyZachowanie.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\elementy interaktywne\ElementInteraktywnyZachowanie.cs">
     <Files>
-      <File FileName="Assets\ElementInteraktywnyZachowanie.cs" Line="22" Column="5" />
+      <File FileName="Assets\elementy interaktywne\CiezarSkrypt.cs" Line="6" Column="2" />
+      <File FileName="Assets\WygralesScript.cs" Line="23" Column="29" />
+      <File FileName="Assets\elementy interaktywne\BalonSkrypt.cs" Line="4" Column="58" />
+      <File FileName="Assets\CzasScript.cs" Line="13" Column="2" />
+      <File FileName="Assets\elementy interaktywne\ElementInteraktywnyZachowanie.cs" Line="13" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
