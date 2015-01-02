@@ -15,7 +15,7 @@ public class WygralesScript : MonoBehaviour {
 	}
 	void OnTriggerEnter2D(Collider2D other) {
 		if (other.tag == "piłka") {
-						Debug.Log ("kolizja");
+				//		Debug.Log ("kolizja");
 			kolizja = true;
 			GameObject jakis = GameObject.FindGameObjectsWithTag ("czas")[0] ;
 
@@ -28,7 +28,7 @@ public class WygralesScript : MonoBehaviour {
 	{
 				if (kolizja == true) 
 		{GameObject jakis = GameObject.FindGameObjectsWithTag ("czas") [0];
-			if (postep <2)
+			if (postep <1)
 			{//pierwsze dwie sekundy wyswietlamy czas, a potem napis zwyciestwo
 						postep += Time.deltaTime;
 						
@@ -48,7 +48,7 @@ public class WygralesScript : MonoBehaviour {
 
 		}
 	void onTrigerExit2D(Collider2D other)
-	{Debug.Log ("koniec kolizji");
+	{//Debug.Log ("koniec kolizji");
 		postep = 0;
 		kolizja = false;
 

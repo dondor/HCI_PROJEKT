@@ -16,6 +16,19 @@ public abstract class ElementInteraktywnyZachowanie : MonoBehaviour {
 			{case "usmiechPrefab":
 						klawisz = KeyCode.U;
 					break;
+				case "zamknieciePrawegoOkaPrefab":
+					klawisz=KeyCode.P;
+					break;
+				case "podniesioneBrwiPrefab":
+					klawisz=KeyCode.B;
+					break;
+				case "zamkniecieLewegoOkaPrefab":
+					klawisz = KeyCode.L;
+					break;
+				case "zamkniecieOczuPrefab":
+					klawisz=KeyCode.O;
+					break;
+					break;
 				default:
 					break;
 				}

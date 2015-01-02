@@ -47,23 +47,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CzasScript.cs" />
+     <Compile Include="Assets\SniegSkrypt.cs" />
      <Compile Include="Assets\WygralesScript.cs" />
      <Compile Include="Assets\elementy interaktywne\BalonSkrypt.cs" />
      <Compile Include="Assets\elementy interaktywne\CiezarSkrypt.cs" />
      <Compile Include="Assets\elementy interaktywne\ElementInteraktywnyZachowanie.cs" />
+     <Compile Include="Assets\elementy interaktywne\PiłkaDmuchanaSkrypt.cs" />
      <Compile Include="Assets\elementy interaktywne\PrzesuwnikSkrypt.cs" />
+     <Compile Include="Assets\elementy interaktywne\SankiSkrypt.cs" />
      <Compile Include="Assets\elementy interaktywne\SprezynaScript.cs" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
-     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/krzysiek/Documents/HCI_PROJEKT/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
